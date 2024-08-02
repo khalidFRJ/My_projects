@@ -47,14 +47,3 @@ t["march 17"] = 63457
 print(t.arr)
 del t["march 6"]
 print(t.arr)
-
-
-
-
-
-
-
-
-
-
-
